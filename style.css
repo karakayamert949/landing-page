@@ -85,11 +85,12 @@ img {
     border-radius: 16px;
     width: 200px;
     height: 200px;
+    margin: 0 auto;
 }
 
 .cards {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     gap: 50px;
 }
 
